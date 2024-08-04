@@ -1,5 +1,5 @@
 [package]
-name = "shopping_rust"
+name = "shopping"
 version = "0.1.0"
 edition = "2021"
 
